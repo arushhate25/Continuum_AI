@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-pydantic>=2
-sqlalchemy>=2
-alembic
-psycopg[binary]
-httpx
-pytest
